@@ -1,0 +1,3 @@
+... todo ...
+
+<p>Need to figure out how to log out from Kerberos, then redirect to the page</p>
